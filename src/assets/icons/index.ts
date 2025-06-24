@@ -1,0 +1,17 @@
+export { default as Activity } from "@/assets/icons/files/activity.svg";
+export { default as ArrowDown } from "@/assets/icons/files/arrow-down.svg";
+export { default as BarChart } from "@/assets/icons/files/bar-chart.svg";
+export { default as Calendar } from "@/assets/icons/files/calendar.svg";
+export { default as CheckFill } from "@/assets/icons/files/check-fill.svg";
+export { default as CloseFill } from "@/assets/icons/files/close-fill.svg";
+export { default as Dashboard } from "@/assets/icons/files/dashboard.svg";
+export { default as Flag } from "@/assets/icons/files/flag.svg";
+export { default as Globe } from "@/assets/icons/files/globe.svg";
+export { default as LifeBuoy } from "@/assets/icons/files/life-buoy.svg";
+export { default as MapOutline } from "@/assets/icons/files/map-outline.svg";
+export { default as Map } from "@/assets/icons/files/map.svg";
+export { default as Mark } from "@/assets/icons/files/mark.svg";
+export { default as Menu } from "@/assets/icons/files/menu.svg";
+export { default as PieChart } from "@/assets/icons/files/pie-chart.svg";
+export { default as Trash } from "@/assets/icons/files/trash.svg";
+export { default as UserLine } from "@/assets/icons/files/user-line.svg";
